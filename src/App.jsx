@@ -1,9 +1,10 @@
 import "./App.css";
+import Body from "./components/utills/Body";
 
 function App() {
   return (
     <>
-      <h1 className="bg-amber-500">Vite + React</h1>
+      <Body />
     </>
   );
 }
