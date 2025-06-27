@@ -9,7 +9,7 @@ const Header = () => {
           src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Logonetflix.png"
           alt=""
         />
-        <div>fghjk</div>
+        <div></div>
       </div>
     </>
   );
